@@ -1,2 +1,2 @@
 # Web-development
-Wordpress | Frontend and web development projects
+Web development projects including frontend and WordPress websites
